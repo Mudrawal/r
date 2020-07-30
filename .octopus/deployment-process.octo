@@ -2,7 +2,7 @@ process {
     Id = "deploymentprocess-Projects-7"
     OwnerId = "Projects-7"
     IsFrozen = false
-    Version = 1
+    Version = 2
     SpaceId = "Spaces-1"
     Steps {
         run_a_script {
