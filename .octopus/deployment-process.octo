@@ -1,0 +1,10 @@
+process {
+    Id = "deploymentprocess-Projects-6"
+    OwnerId = "Projects-6"
+    IsFrozen = false
+    Version = 0
+    SpaceId = "Spaces-1"
+    Steps {
+    }
+    RelatedDocumentIds = []
+}
